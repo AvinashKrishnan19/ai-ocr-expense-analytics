@@ -305,8 +305,6 @@ This project demonstrates:
 
 # Screenshots
 
-Add project screenshots here:
-
 ```text
 screenshots/dashboard
 screenshots/chatbot.png
